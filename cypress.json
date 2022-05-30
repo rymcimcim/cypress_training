@@ -1,0 +1,9 @@
+{
+    "numTestsKeptInMemory": 1,
+    "chromeWebSecurity": false,
+    "env": {
+        "email": "PUT.HERE@YOUR.EMAIL",
+        "password": "PUT.HERE.YOUR.ACCOUNT.PASSWORD",
+        "timeout": 60000
+    }
+}
